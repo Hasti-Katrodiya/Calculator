@@ -1,0 +1,34 @@
+button {
+    display: inline;
+    padding: 15px;
+    FONT-SIZE: 20px;
+    BACKGROUND: #000000a3;
+    COLOR: WHITE;
+    MARGIN: 5PX;
+    border-radius: 9px;
+    border: 3px solid yellow;
+    cursor: pointer;
+    width: 70px;
+}
+
+.container {
+    JUSTIFY-CONTENT: CENTER;
+    ALIGN-ITEMS: CENTER;
+    WIDTH: max-content;
+    border: solid black 2px;
+}
+
+.row {
+    margin: 7px;
+    align-items: last baseline;
+    width: max-content;
+
+}
+
+.input {
+    width: 319px;
+    margin: 18px;
+    padding: 15px;
+    font-size: 24px;   
+     
+}
